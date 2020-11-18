@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Aleksas Daujotas
+=======
+Andrius Bilotas
+Daiva Liubiniene
+Labas rytas
+Hakeriai 3000
+>>>>>>> 731fb2a4633775891076c02ec62f783e05b3951d
